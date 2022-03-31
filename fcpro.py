@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 # -*- coding: utf-8
 
-#AUTHOR : AZIM VAU (MR. ERROR)
+#AUTHOR : AZIM Lowdo (MR. ERROR)
 #OPEN SOURCE :)
 #DON'T FORGET TO GIVE CREDIT TO MR. ERROR
 
